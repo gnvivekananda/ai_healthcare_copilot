@@ -1,2 +1,2 @@
 # ai_healthcare_copilot
-RGEMS AI Healthcare Copilot Project
+This is a ai healthcare project.
